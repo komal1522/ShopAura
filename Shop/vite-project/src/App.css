@@ -1,0 +1,9 @@
+.component-class .child-class {
+    height: 100px;
+    width: 100px;
+  }
+  .my-component {
+    height: 100px !important;
+    width: 100px !important;
+  }
+     
